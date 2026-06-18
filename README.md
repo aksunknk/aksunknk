@@ -4,7 +4,7 @@
 
 **多言語・フルスタック・クロスプラットフォームを跨いで「動くもの」を設計・実装するエンジニア**
 
-TypeScript / Python / Rust を軸に、Web・デスクトップ・モバイル・ベクトル検索基盤まで一気通貫で構築します。
+TypeScript / Python を軸に、Web・デスクトップ・モバイル・ベクトル検索基盤まで一気通貫で構築します。
 
 </div>
 
@@ -16,7 +16,6 @@ TypeScript / Python / Rust を軸に、Web・デスクトップ・モバイル�
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 **フロントエンド / モバイル / デスクトップ**
@@ -73,6 +72,6 @@ TypeScript / Python / Rust を軸に、Web・デスクトップ・モバイル�
 <!--
 TODO（本人記入）:
 - 氏名 / 表示名（任意）
-- 志望職種・分野（例: バックエンド / フルスタック）
-- 連絡先（メール / ポートフォリオURL / X 等）
+- 志望職種・分野（例: バックエンド / フルスタック）実務での開発は未経験のためとにかく実務でコードを書きたいしチームで業務を行うという経験を積みたいです。
+- 連絡先（メール / ポートフォリオURL / X 等）aksaks.suak@gmail.com
 -->
